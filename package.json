@@ -1,0 +1,20 @@
+{
+  "name": "game2",
+  "version": "1.0.1",
+  "description": "mygame",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "snake",
+    "game",
+    "js"
+  ],
+  "author": "e. m",
+  "license": "Unlicense"
+}
